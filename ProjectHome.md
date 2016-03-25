@@ -1,0 +1,1 @@
+This a really simple plugin for pidgin.  The idea is to alter the context menu of email addresses in conversations and add option to add the address as a buddy
